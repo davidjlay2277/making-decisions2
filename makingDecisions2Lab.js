@@ -7,6 +7,9 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
+console.log('the array is : ',arr);
+let array1 = arr[0]
+console.log(array1);
 
 
 ////////// PROBLEM 2 //////////
